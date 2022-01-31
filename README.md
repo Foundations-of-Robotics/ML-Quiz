@@ -5,18 +5,13 @@ This quiz is in the form of a jupyter notebook.
 All required libraries are installed in your active python environment by the notebook, so this quiz has no prerequisite apart from `jupyter` and `python`.
 
 If you do not have jupyter and python installed, we recommend simply installing [Anaconda](https://www.anaconda.com).
-Then, you can open a conda prompt, navigate to your copy of the repository, and type:
+Then, you can open jupyter notebook or jupyter lab from Anaconda Navigator.
 
-```bash
-jupyter notebook
-```
-
-This should open jupyter in your web browser, and from there you can open the quiz, which is the `quiz.ipynb` file, using python3.
+From jupyter, open the quiz, which is the `quiz.ipynb` file, using python3.
 
 You can then execute the provided code cells one by one.
 
-In this version of the quiz, the answer is provided after each question.
-If you need to hide answers, you can simply copy `quiz.ipynb` and delete these answers (text can be edited in jupyter by double-click and code blocks can be deleted by double-press on the `D` key).
+In this version of the quiz, the answers are not provided.
 
 ## Repository files:
 ### git:
